@@ -4,7 +4,7 @@
 
 ## Demonstração
 
-[Acesse a demonstração aqui.] (http://shrouded-badlands-47857.herokuapp.com/)
+[Acesse a demonstração aqui.](http://shrouded-badlands-47857.herokuapp.com/)
 
 ## Descrição
 
